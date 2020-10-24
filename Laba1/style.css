@@ -1,0 +1,22 @@
+body {
+    background: rgb(144, 224, 171);
+    }
+    p {
+    font-size: 250%;
+    padding-left: 40px;
+    }
+    h1 {
+    color: crimson;
+    font-size: 300%;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    text-align: center;
+    }
+    li {
+    font-size: 220%;
+    color: rgb(32, 97, 13);
+    }
+    .column{
+        float: left;
+        width: 50%;
+    }
+   
